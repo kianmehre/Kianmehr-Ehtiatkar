@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Fun Zone"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Mechanical engineer turned world traveler, and now pursuing artificial intelligence and computer vision
 name                     : "Kianmehr Ehtiatkar"
 description              : "An amazing website."
 url                      : "https://kianmehrehtiakar.com"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kianmehr Ehtiatkar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a mechanical engineer turned world traveler, now pursuing artificial intelligence and computer vision."
+  location         : "Minneapolis, MN"
+  email            : "Kianmehr.Ehtiatkar@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
