@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -25,7 +25,7 @@ url                      : "https://kianmehrehtiakar.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/ocean watercolor.jpeg"
-logo                     : "/assets/images/Profile Picture.jpeg"
+logo                     : # "/assets/images/Profile Picture.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Kianmehr Ehtiatkar"
-  avatar           : "/assets/images/profile picture.jpg"
+  avatar           : "/assets/images/Profile Picture.jpg"
   bio              : "I'm a medical device engineer turned world traveler, now pursuing artificial intelligence and computer vision."
   location         : "Minneapolis, MN"
   email            : "Kianmehr.Ehtiatkar@gmail.com"
