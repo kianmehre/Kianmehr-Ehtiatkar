@@ -158,6 +158,8 @@ footer:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kianmehr.ehtiatkar@gmail.com"
 
+# Navigation
+    - {file: "about.md" , title: "about change" , icon: about} 
 
 # Reading Files
 include:
