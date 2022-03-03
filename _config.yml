@@ -108,7 +108,7 @@ author:
   location         : "Minneapolis, MN"
   email            : "Kianmehr.Ehtiatkar@gmail.com"
   github           : "kianmehre"
-  linkedin         : "kianmehrehtiatkar"
+  linkedin         : "kianmehr-ehtiatkar"
   url              : "kianmehrehtiatkar.com"
   links:
     - label: "GitHub"
@@ -117,6 +117,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kianmehr-ehtiatkar"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kianmehr.ehtiatkar@gmail.com"
 
 # Site Footer
 footer:
