@@ -4,6 +4,7 @@ permalink: /about/
 header:
   overlay_image: /assets/images/Norway.heic
 author_profile: true
+
 ---
 
 <figure style="width: 300px" class="align-right">
