@@ -110,16 +110,16 @@ author:
   github           : "kianmehre"
   linkedin         : "kianmehr-ehtiatkar"
   url              : "kianmehrehtiatkar.com"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kianmehre"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/kianmehr-ehtiatkar"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kianmehr.ehtiatkar@gmail.com"
+  # links:
+ #   - label: "GitHub"
+ #     icon: "fab fa-fw fa-github"
+ #     url: "https://github.com/kianmehre"
+ #   - label: "Linkedin"
+ #     icon: "fab fa-fw fa-linkedin"
+ #     url: "https://www.linkedin.com/in/kianmehr-ehtiatkar"
+ #   - label: "Email"
+ #     icon: "fas fa-fw fa-envelope-square"
+ #     url: "mailto:kianmehr.ehtiatkar@gmail.com"
 
 # Site Footer
 footer:
