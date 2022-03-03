@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  overlay_image: /assets/images/Norway.heic
+  overlay_image: /assets/images/ocean watercolor.jpeg
 author_profile: true
 
 ---
