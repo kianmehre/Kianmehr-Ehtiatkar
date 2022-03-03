@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 permalink: /about/
 header:
   overlay_image: /assets/images/Norway.heic
