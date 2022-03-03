@@ -24,10 +24,10 @@ description              : "An amazing website."
 url                      : "https://kianmehrehtiakar.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/ocean watercolor.jpeg"
+teaser                   : # "/assets/images/ocean watercolor.jpeg"
 logo                     : # "/assets/images/Profile Picture.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
