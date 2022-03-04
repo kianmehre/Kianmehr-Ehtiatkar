@@ -2,7 +2,7 @@
 title: "About Me"
 permalink: /about/
 header:
-  overlay_image: /assets/images/Norway.heic
+  overlay_image: /assets/images/Tulum Beach.jpg
 author_profile: true
 
 ---
