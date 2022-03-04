@@ -18,12 +18,14 @@ You can tell from the photos on my website that I like travel a lot and more imp
 Education
 ---------
 2011 - 2015
+
 :   **BSC, Mechanical Engineering**; University of Minnesota - Twin Cities (Minneapolis, MN)
 
 Experience
 ----------
 **Sr. Manufacturing Engineer** -    *Cardiovascular Systems, Inc.*
 : *St.Paul, Minnesota      Dec 2019 - Aug 2021*
+
 :  Took advantage of an opportunity to be the first manufacturing engineer in a newly formed manufacturing enigneering department at the company.
   * Led cross-functional manufacturing efforts for international product releases and new product development; directed priorities to meet tight timelines;
   * Led validation activities for new processes using DOE and statistical analysis to reduce project costs and overhead; established critical process parameters, quality controls, and pFMEA;
