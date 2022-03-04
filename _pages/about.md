@@ -25,15 +25,15 @@ Experience
 **Sr. Manufacturing Engineer** -    *Cardiovascular Systems, Inc.*
 : *St.Paul, Minnesota      Dec 2019 - Aug 2021*
 :  Took advantage of an opportunity to be the first manufacturing engineer in a newly formed manufacturing enigneering department at the company.
-  *Led cross-functional manufacturing efforts for international product releases and new product development; directed priorities to meet tight timelines;
-  *Led validation activities for new processes using DOE and statistical analysis to reduce project costs and overhead; established critical process parameters, quality controls, and pFMEA;
-  *Trained and mentored new manufacturing engineering team members; implemented new production training processes across multiple sites;
-  *Specified and set up new multifaceted equipment that involved software development, GUI, fixturing, and IQ/OQ/PQ;
-  *Determined strategies for laser welding process improvements across multiple sites; managed laser welding equipment for existing product lines including software and hardware upgrades;
-  *Automated welding processes using advanced vision systems and multi-level programming to accommodate production of high-volume consumer products (>200k/yr.);
-  *Oversaw packaging and labeling development, testing, and implementation for new and existing disposable medical devices;
-  *Managed implementation of lean manufacturing practices to increase yields and reduce scraps and costs; led cross-functional efforts to create and implement procedural updates;
-  *Led cross-functional teams through multiple field issues investigation and corrective action implementation.
+  * Led cross-functional manufacturing efforts for international product releases and new product development; directed priorities to meet tight timelines;
+  * Led validation activities for new processes using DOE and statistical analysis to reduce project costs and overhead; established critical process parameters, quality controls, and pFMEA;
+  * Trained and mentored new manufacturing engineering team members; implemented new production training processes across multiple sites;
+  * Specified and set up new multifaceted equipment that involved software development, GUI, fixturing, and IQ/OQ/PQ;
+  * Determined strategies for laser welding process improvements across multiple sites; managed laser welding equipment for existing product lines including software and hardware upgrades;
+  * Automated welding processes using advanced vision systems and multi-level programming to accommodate production of high-volume consumer products (>200k/yr.);
+  * Oversaw packaging and labeling development, testing, and implementation for new and existing disposable medical devices;
+  * Managed implementation of lean manufacturing practices to increase yields and reduce scraps and costs; led cross-functional efforts to create and implement procedural updates;
+  * Led cross-functional teams through multiple field issues investigation and corrective action implementation.
 
 Technical Experience
 --------------------
