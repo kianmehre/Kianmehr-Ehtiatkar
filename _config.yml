@@ -288,13 +288,4 @@ defaults:
       # read_time: true
       comments: true
       # share: true
-      related: true
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      comments: true
-      share: true
       related: true  
