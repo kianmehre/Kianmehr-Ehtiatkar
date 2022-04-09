@@ -15,16 +15,14 @@ During the few months of lockdown in the recent Covid-19 pandemic, I decided to 
 
 I started by creating an object oriented class structure for different countries, regions, and states. This was challenging as some countries had regions and some countries had states and some had none or both.
 
-Markdown for code snipet:
-
-classdef Places < handle
-    % Class definition to be able to store global, country, and state data
-    properties (Access = public)
-        Country
-        Region
-        CovidCases
-        DeathCases
-    end
+    classdef Places < handle
+        % Class definition to be able to store global, country, and state data
+        properties (Access = public)
+            Country
+            Region
+            CovidCases
+            DeathCases
+        end
 
     methods
         function obj = Places(count,region,cases)
@@ -33,9 +31,7 @@ classdef Places < handle
             obj.Country = string(count);
             obj.Region = string(region);
             obj.Region(obj.Region == "") = "All";
- % and so on ...
- 
- end of markdown
+     % and so on ...
  
 Once I had a solid base for my data I could use them and build my app structure efficiently and however I wanted. I defined a few useful properties and functions to be able to manipulate the data for better visualization. I added features to take average over a few days, see cumulative or daily cases and deaths on one graph for comparison, and most importantly choose countries and regions right on the app for convenience.
 
