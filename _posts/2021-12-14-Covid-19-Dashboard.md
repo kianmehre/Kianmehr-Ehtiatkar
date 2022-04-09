@@ -2,7 +2,7 @@
 title: "Covid-19 Dashboard"
 excerpt: "Number of cases and deaths resulted from Covid-19 by country or region for 2020-2021"
 last_modified_at: 2022-04-09
-author: Kianmehr Ehtiatkar
+author_profile: true
 tags: 
   - Covid
   - MATLAB
