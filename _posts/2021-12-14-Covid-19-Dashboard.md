@@ -2,6 +2,7 @@
 title: "Covid-19 Dashboard"
 excerpt: "Number of cases and deaths resulted from Covid-19 by country or region for 2020-2021"
 last_modified_at: 2021-12-14
+author_profile: true
 header:
   teaser: "/assets/images/COVID-19 DASHBOARD.png"
 tags: 
@@ -62,6 +63,6 @@ function setDefaults(app)
 ```
 The final results are what you see at the top of the page. A pretty looking user-friendly app that helps you visualize what is going on in the world and how serious this virus is.
 
-<figure class="align-center">
+<figure style="width: 300px" class="align-center">
     <a href="/assets/images/COVID-19 DASHBOARD.png"><img src="/assets/images/COVID-19 DASHBOARD.png"></a>
 </figure>
