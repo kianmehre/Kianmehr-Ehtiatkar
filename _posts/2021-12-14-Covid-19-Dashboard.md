@@ -10,9 +10,6 @@ tags:
   - GUI
   - App
 ---
-
-header:
-  teaser: "/assets/images/COVID-19 DASHBOARD.png"
   
 During the few months of lockdown in the recent Covid-19 pandemic, I decided to put my MATLAB skills to test and build a dashboard to both visualize the daily and cumulative numbers better and to refresh my app building knowledge. After all, if you don't use your skills, you will lose them.
 
