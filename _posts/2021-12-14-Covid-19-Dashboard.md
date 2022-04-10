@@ -5,7 +5,6 @@ last_modified_at: 2022-04-09
 author_profile: true
 thumbnail: /assets/images/COVID-19 DASHBOARD-Thumbnail.png
 header:
-  image: "/assets/images/COVID-19 DASHBOARD.png"
   teaser: "/assets/images/COVID-19 DASHBOARD-Thumbnail.png"
 tags: 
   - Covid
