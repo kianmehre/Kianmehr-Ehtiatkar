@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : I have an identical twin!
 name                     : "Kianmehr Ehtiatkar"
 description              : "An amazing website."
-url                      : "https://kianmehrehtiakar.com"
+url                      : "https://kianmehrehtiatkar.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/ocean watercolor.jpeg"
@@ -153,7 +153,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - type: grid
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
