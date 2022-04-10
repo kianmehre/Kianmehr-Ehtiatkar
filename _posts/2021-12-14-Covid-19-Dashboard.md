@@ -6,7 +6,7 @@ author_profile: true
 thumbnail: /assets/images/COVID-19 DASHBOARD.png
 header:
   image: "/assets/images/COVID-19 DASHBOARD.png"
-  teaser: "/assets/images/COVID-19 DASHBOARD.png"
+  teaser: "/assets/images/COVID-19 DASHBOARD-Thumbnail.png"
 tags: 
   - Covid
   - MATLAB
