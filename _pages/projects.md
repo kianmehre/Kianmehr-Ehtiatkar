@@ -29,7 +29,7 @@ feature_row:
        
     
       
-        <a href="/stabilization/" rel="permalink">Auto-Directed L1 Video Stabilization
+        <a href="/Covid-19-Dashboard/" rel="permalink">Covid-19-Dashboard
 </a>
       
         
