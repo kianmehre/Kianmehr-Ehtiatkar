@@ -22,7 +22,7 @@ author_profile: true
 </a>
     </h2>
 
-      <p class="archive__item-excerpt" itemprop="description">Pandemic Projectaaa
+      <p class="archive__item-excerpt" itemprop="description">Pandemic Project
 </p>
 
   </article>
